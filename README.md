@@ -2,8 +2,6 @@
 
 Um projeto simples e elegante de **Cartão de Apresentação** criado com **HTML** e **CSS**. O cartão exibe informações básicas como nome, título profissional e contato, com um design centralizado e responsivo.
 
-![Preview do Cartão](preview.png) <!-- Adicione uma imagem para destacar seu projeto -->
-
 ---
 
 ## 📌 Funcionalidades
